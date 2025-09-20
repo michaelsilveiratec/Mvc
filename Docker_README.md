@@ -1,0 +1,2 @@
+# O que é um Docker?
+# R:Docker é uma plataforma de software que permite criar, executar e gerenciar aplicações em unidades padronizadas chamadas contêineres. Um contêiner Docker agrupa o código de uma aplicação com todas as suas dependências, como bibliotecas e ferramentas de sistema, para garantir que ela funcione de forma rápida e confiável em qualquer ambiente, seja local ou na nuvem.
