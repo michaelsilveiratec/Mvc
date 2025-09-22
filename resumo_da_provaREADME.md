@@ -40,3 +40,7 @@ os profissionais executem todas as tarefas em um projeto, desde o
 planejamento do projeto, passando pelo gerenciamento do código-fonte até
 o monitoramento e a segurança.
 
+# trabalhando com docker
+
+
+
